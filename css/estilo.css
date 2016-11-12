@@ -38,3 +38,20 @@ body{
 	border-bottom-right-radius: 0;
 	border-bottom-left-radius: 0; 
 }
+.message{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+.form-cadusu{
+	max-width: 330px;
+}
+.form-cadusu input[type="password"]{
+	margin-bottom: 10px;
+}
+.listagem{
+	margin: 0 auto;
+	padding: 30px;
+	width: 500px;
+}
